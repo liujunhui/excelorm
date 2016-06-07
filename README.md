@@ -1,5 +1,6 @@
 # excelorm
 excel的ORM实现
+把存放excel文件的文件夹当作一个数据库，把单个excel当作单个的表
 
 Usage
 
